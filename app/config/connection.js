@@ -21,5 +21,3 @@ connection.connect(function(err) {
 });
 
 module.exports = connection;
-
-	l9dwvv6j64hlhpul.cbetxkdyhwsb.us-east-1.rds.amazonaws.com

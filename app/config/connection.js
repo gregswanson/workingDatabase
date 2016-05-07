@@ -5,10 +5,10 @@
 var mysql = require('mysql');
 var connection = mysql.createConnection({
     port: 3306,
-    host: 'localhost',
-    user: 'root',
-    password: "Njmitx123",
-    database: "starwars"
+    host: 'l9dwvv6j64hlhpul.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+    user: 'kq5scorpetzduvh2',
+    password: "twdnjrsf33zzss0n",
+    database: "ottrjfpq9bc9yuuo"
 });
 
 
@@ -21,3 +21,5 @@ connection.connect(function(err) {
 });
 
 module.exports = connection;
+
+	l9dwvv6j64hlhpul.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
